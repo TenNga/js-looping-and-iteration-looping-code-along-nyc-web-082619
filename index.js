@@ -10,8 +10,8 @@ function writeCards(name,event){
 
 function countdown(number) {
   whie(0 <= number){
-    
-  }
     console.log(number)
     number--;
+  }
+    
 }
