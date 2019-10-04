@@ -9,5 +9,6 @@ function writeCards(name,event){
 }
 
 function countdown(number) {
-  whie()
+  whie(0 <= number)
+    cons
 }
