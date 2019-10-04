@@ -7,3 +7,7 @@ function writeCards(name,event){
   }
   return result;
 }
+
+function countdown(number) {
+  whie()
+}
