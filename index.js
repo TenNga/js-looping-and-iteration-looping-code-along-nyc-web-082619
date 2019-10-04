@@ -1,2 +1,4 @@
 // Code your solutions in this file
-function writeCards()
+function writeCards(name,event){
+  
+}
