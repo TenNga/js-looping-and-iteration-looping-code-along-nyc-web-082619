@@ -2,7 +2,7 @@
 function writeCards(name,event){
   var result = []
   for(var i = 0; i < name.length; i ++){
-    result.push("Thank you2, " + name[i] + ", for the wonderful " + event + " gift!"
+    result.push("Thank you, " + name[i] + ", for the wonderful " + event + " gift!"
    );
   }
   return result;
