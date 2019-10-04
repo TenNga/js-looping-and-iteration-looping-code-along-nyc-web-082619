@@ -4,6 +4,6 @@ function writeCards(name,event){
   for(var i = 0; i < name.length; i ++){
     result.push("Thank you2, " + name[i] + ", for the wonderful " + event + " gift!"
    );
-   return result;
-  }
+   
+  }return result;
 }
